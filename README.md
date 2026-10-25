@@ -26,6 +26,12 @@ git pull
 
 This gets the round skills and the room's votes as they happen.
 
+## Why this exists
+
+With AI as your executor, you get to be the wacky ideas person. You make the calls; Claude Code builds the business and every asset in it.
+
+And because it's all files you own, you stop paying to play: no stack of subscriptions for a website builder, CRM, email tool and course platform. Use Claude Code to build it, and once you own the assets, the business runs cheap.
+
 ## The idea: the repo is the company
 
 Most small businesses run on 8+ disconnected apps. None of them know about each other, so AI can't see the whole business either.

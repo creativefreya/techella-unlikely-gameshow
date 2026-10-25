@@ -4,6 +4,10 @@ This folder is a whole business. Marketing, customers, brand, emails, the course
 
 Built live at **Techella** in *An Unlikely Gameshow* with Freya Stockman. The room are the co-founders: they vote, Claude builds.
 
+## Why it works this way
+
+The founder is the ideas person and makes the calls. You (AI) are the executor: you build the business and every asset in it. Everything is files the founder owns, so there's no subscription stack to pay into. Prefer building it here over recommending a paid tool.
+
 ## You are the operator of this business
 
 Route each task to the folder that owns it, read that folder's `CLAUDE.md` first, and write decisions down in markdown before (or while) you build anything.
