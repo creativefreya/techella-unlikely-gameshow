@@ -34,12 +34,12 @@ Download it from [claude.ai/download](https://claude.ai/download), sign in, and 
 
 In the Claude desktop app's Code tab, start a new session and ask:
 
-> Clone https://github.com/REPLACE-ME/techella-unlikely-gameshow into my Documents folder and open it
+> Clone https://github.com/creativefreya/techella-unlikely-gameshow into my Documents folder and open it
 
 Or in a terminal:
 
 ```bash
-git clone https://github.com/REPLACE-ME/techella-unlikely-gameshow.git
+git clone https://github.com/creativefreya/techella-unlikely-gameshow.git
 ```
 
 ## 6. Run the check
@@ -55,3 +55,5 @@ Claude checks everything and tells you in plain English what (if anything) to fi
 ## On the day
 
 Open the repo in Claude Code and type `git pull` (or ask Claude to "pull the latest"). That gets the round skills.
+
+Step-by-step page with copy buttons: [augmenteddesigner.com/resources/techella-gameshow](https://augmenteddesigner.com/resources/techella-gameshow/)
