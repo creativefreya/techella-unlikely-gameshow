@@ -62,6 +62,7 @@ apps/                ← the pages people actually see
 votes/               ← what the room voted, per round
 ```
 
-## Want agents to run it for you?
+## Want to take it further?
 
-That's the next step after today: see the end of the talk.
+- **Got a business or an idea you want to run with AI?** [Book a free intro call with Freya](https://calendar.app.google/4KvK9MxbF5WkVN3g8). Talk it through and see a demo of the Company OS web app.
+- **Want agents to run it for you?** That's the next step after today: see the end of the talk.
