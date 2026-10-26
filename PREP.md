@@ -15,17 +15,13 @@ Download it from [claude.ai/download](https://claude.ai/download), sign in, and 
 
 (Already use a terminal or Cursor? Claude Code works there too.)
 
-## 2. Make a GitHub account
-
-Sign up free at [github.com](https://github.com).
-
-## 3. Get Claude Pro
+## 2. Get Claude Pro
 
 Claude Code needs a paid Claude plan. Sign up at [claude.ai](https://claude.ai) and choose **Pro**.
 
 Already paying for another AI coding tool, like Cursor or Copilot? Use that instead: this repo is just files, so any of them will work.
 
-## 4. Get this repo onto your laptop
+## 3. Get this repo onto your laptop
 
 In the Claude desktop app's Code tab, start a new session and ask:
 
@@ -39,7 +35,7 @@ Or in a terminal:
 git clone https://github.com/creativefreya/techella-unlikely-gameshow.git
 ```
 
-## 5. Run the check
+## 4. Run the check
 
 With the repo open in Claude Code, type:
 

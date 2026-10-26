@@ -61,11 +61,11 @@ For each fix, in order:
 | Git doesn't know their name/email | `git config --global user.name "Their Name"` then `git config --global user.email "their@email.com"` | same | Two separate commands. Use their real answers. |
 | Node.js missing or too old | Homebrew installed: `brew install node`. No Homebrew: run `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh \| bash`, then close and reopen Claude Code, then run `nvm install --lts` | `winget install --id OpenJS.NodeJS.LTS -e` | The no-Homebrew Mac route needs no password. Fallback for anyone: the LTS installer from https://nodejs.org (big green button). Close and reopen Claude Code after installing. |
 | npx not found | comes with Node.js: fix Node first | same | |
-| Not inside the gameshow repo | no command | | Explain how to open the `techella-unlikely-gameshow` folder in Claude Code (PREP.md step 4). |
+| Not inside the gameshow repo | no command | | Explain how to open the `techella-unlikely-gameshow` folder in Claude Code (PREP.md step 3). |
 | Some folders missing | `git checkout -- <the missing folders from the check>` | same | Restores only those folders. |
 | Copy is behind GitHub | `git pull` | same | |
 | Couldn't reach GitHub | no command | | Check the wifi, then run `/preflight` again. |
-| Not connected to GitHub (no "origin") | no command | | They downloaded a zip. Walk them through cloning instead (PREP.md step 4). |
+| Not connected to GitHub (no "origin") | no command | | They downloaded a zip. Walk them through cloning instead (PREP.md step 3). |
 
 **Then run the check again** (step 1) to confirm everything's fixed.
 
