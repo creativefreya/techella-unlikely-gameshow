@@ -25,18 +25,13 @@ Claude Code needs a paid Claude plan. Sign up at [claude.ai](https://claude.ai) 
 
 Already paying for another AI coding tool, like Cursor or Copilot? Use that instead: this repo is just files, so any of them will work.
 
-## 4. Install Git and Node.js
-
-- **Git**
-  - Mac: open Terminal and type `git --version`. If it asks to install developer tools, say yes.
-  - Windows: install from [git-scm.com](https://git-scm.com/download/win). Keep the default options.
-- **Node.js**: install the **LTS** version from [nodejs.org](https://nodejs.org).
-
-## 5. Get this repo onto your laptop
+## 4. Get this repo onto your laptop
 
 In the Claude desktop app's Code tab, start a new session and ask:
 
 > Clone https://github.com/creativefreya/techella-unlikely-gameshow into my Documents folder and open it
+
+No Git yet? Claude will notice and offer to install it. On a Mac, a pop-up appears: click **Install**.
 
 Or in a terminal:
 
@@ -44,7 +39,7 @@ Or in a terminal:
 git clone https://github.com/creativefreya/techella-unlikely-gameshow.git
 ```
 
-## 6. Run the check
+## 5. Run the check
 
 With the repo open in Claude Code, type:
 
@@ -52,7 +47,7 @@ With the repo open in Claude Code, type:
 /preflight
 ```
 
-Claude checks everything and tells you in plain English what (if anything) to fix. All green = you're ready.
+Claude checks your laptop (Git, Node.js, the repo) and tells you in plain English what, if anything, needs fixing. Then it asks whether you want it to fix everything for you, or give you one command at a time to run yourself. All green = you're ready.
 
 ## On the day
 

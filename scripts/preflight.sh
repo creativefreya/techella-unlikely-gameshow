@@ -54,7 +54,7 @@ if [ -n "$repo_root" ] && [ -f "$repo_root/CLAUDE.md" ] && [ -f "$repo_root/scri
   pass "You're inside the gameshow repo"
   cd "$repo_root" || exit 1
 else
-  fail "Not inside the gameshow repo" "Open the techella-unlikely-gameshow folder in Claude Code (see PREP.md step 5)"
+  fail "Not inside the gameshow repo" "Open the techella-unlikely-gameshow folder in Claude Code (see PREP.md step 4)"
 fi
 
 # 6. Folder structure intact
@@ -89,7 +89,7 @@ if [ -n "$repo_root" ]; then
       warn "Couldn't reach GitHub (offline?)" "Check your internet, then run /preflight again"
     fi
   else
-    warn "Not connected to GitHub (no 'origin')" "Clone the repo from GitHub instead of downloading a zip (PREP.md step 5)"
+    warn "Not connected to GitHub (no 'origin')" "Clone the repo from GitHub instead of downloading a zip (PREP.md step 4)"
   fi
 fi
 
