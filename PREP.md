@@ -17,6 +17,8 @@ Sign up free at [github.com](https://github.com).
 
 Claude Code needs a paid Claude plan. Sign up at [claude.ai](https://claude.ai) and choose **Pro**.
 
+Already paying for another AI coding tool, like Cursor or Copilot? Use that instead: this repo is just files, so any of them will work.
+
 ## 3. Install the Claude desktop app
 
 Download it from [claude.ai/download](https://claude.ai/download), sign in, and find the **Code** tab. That's Claude Code with a friendly window, and the easiest way in.
