@@ -9,21 +9,21 @@ About 30–45 minutes. Do it before the day: venue wifi is not the place to down
 - A charged laptop (Mac or Windows) and its charger
 - Your phone (for voting)
 
-## 1. Make a GitHub account
-
-Sign up free at [github.com](https://github.com).
-
-## 2. Get Claude Pro
-
-Claude Code needs a paid Claude plan. Sign up at [claude.ai](https://claude.ai) and choose **Pro**.
-
-Already paying for another AI coding tool, like Cursor or Copilot? Use that instead: this repo is just files, so any of them will work.
-
-## 3. Install the Claude desktop app
+## 1. Install the Claude desktop app
 
 Download it from [claude.ai/download](https://claude.ai/download), sign in, and find the **Code** tab. That's Claude Code with a friendly window, and the easiest way in.
 
 (Already use a terminal or Cursor? Claude Code works there too.)
+
+## 2. Make a GitHub account
+
+Sign up free at [github.com](https://github.com).
+
+## 3. Get Claude Pro
+
+Claude Code needs a paid Claude plan. Sign up at [claude.ai](https://claude.ai) and choose **Pro**.
+
+Already paying for another AI coding tool, like Cursor or Copilot? Use that instead: this repo is just files, so any of them will work.
 
 ## 4. Install Git and Node.js
 
