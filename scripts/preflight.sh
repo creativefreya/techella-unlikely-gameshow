@@ -66,7 +66,7 @@ if [ -n "$repo_root" ]; then
   if [ -z "$missing" ]; then
     pass "All business folders present"
   else
-    warn "Some folders are missing:$missing" "Re-clone the repo, or run 'git checkout -- .' to restore them"
+    warn "Some folders are missing:$missing" "Run 'git checkout --$missing' to restore them (or re-clone the repo)"
   fi
 fi
 
